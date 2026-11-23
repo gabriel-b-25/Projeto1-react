@@ -17,9 +17,9 @@ A página apresenta um perfil com as seguintes seções, cada uma implementada c
 | Componente | Descrição |
 |---|---|
 | `Cabecalho` | Foto, nome, curso e período |
-| `Sobre` | Painel com texto de apresentação (usa `children`) |
+| `Sobre` | Painel com texto de apresentação |
 | `Habilidades` | Lista de habilidades com nível |
-| `Projetos` | Cards de projetos com situação (em andamento/concluído) e link opcional |
+| `Projetos` | Cards de projetos com título, situação (em andamento/concluído), descrição e link opcional |
 | `Contato` | Nome, e-mail e rede social |
-| `Rodape` | Instituição, curso, disciplina e ano |
+| `Rodape` | Instituição, curso, disciplina, nome e ano |
 ```
